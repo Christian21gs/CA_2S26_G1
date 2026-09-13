@@ -10,13 +10,19 @@
   * Nombre Apellido - Carné  
   * Nombre Apellido - Carné  
   * Nombre Apellido - Carné  
-  * Nombre Apellido - Carné  
+  * David Meza - 202500708  
 * **Fecha de Entrega:** 20/09/2026  
 
 ---
 
 ## 2. Introducción
-*(Redactar una vista general de la capacitación realizada, el contexto bajo el cual se ejecutó, la importancia de la comunicación asertiva en la ingeniería y el propósito del proyecto).*
+   La comunicación es una competencia esencial en la formación de todo ingeniero, ya que el dominio técnico por sí solo no garantiza que el conocimiento se transmita de manera efectiva a otras personas. En el ámbito profesional, un ingeniero constantemente debe explicar conceptos complejos a audiencias con distintos niveles de conocimiento técnico: compañeros de equipo, clientes, jefes y muchas veces, a un público general. Si al momento de compartir estos conocimientos no hay claridad, estructura y una interacción adecuada con la audiencia, el mensaje pierde su efectividad, sin importar qué tan importane sea el contenido que se quiera compartir.
+
+En este contexto, el presente proyecto se desarrolló como parte del curso de Comunicación Asertiva de la Escuela de Ingeniería en Ciencias y Sistemas de la Universidad de San Carlos de Guatemala, con el objetivo de que el grupo #1 diseñara y realizara presencial sobre un tema referente a la carrera, aplicando técnicas de comunicación asertiva, tanto de forma verbal y no verbal, frente a un público real y en vivo.
+
+El tema seleccionado por el grupo fue Ciberseguridad, un tema de bastante relevancia dado el uso constante de dispositivos y plataformas digitales en la vida tanto cotidiana como profesional de las personas. Se buscó por medio de esta capacitación transmitir conocimientos técnicos sobre amenazas digitales y buenas prácticas de protección,trabajando en equipo, buscando mantener una buena oratoria y participación activa con el público (Estudiantes del Instituo Nacional de Educación Diversificada "El Éxodo" Mezquital), pues estos son elementos fundmamentales que forman parte de las habilidades blandas que todo ingeniero debe desarrollar a lo largo de su formación académica y profesional.
+
+El propósito final del proyecto fue demostrar que un equipo de estudiantes de ingeniería es capaz de estructurar, organizar y ejecutar una capacitación clara, comprensible e interactiva, adaptando el contenido técnico al público objetivo y validando que el aprendizaje se haya transmitido correctamente, lo cual se pudo realizar al final de la actividad por medio de una actividad recreativa.
 
 ---
 
@@ -32,19 +38,20 @@
 ---
 
 ## 4. Descripción General del Tema y Subtemas Elegidos
-*(Explicar detalladamente el tema principal de ciberseguridad abordado y el desglose de los subtemas presentados durante la conferencia).*
+
 
 ### 4.1 Tema Principal
 * **Nombre del Tema:** Ciberseguridad
-* **Justificación:** *(Por qué se seleccionó y su impacto para el público objetivo)*
+* **Justificación:** El tema fue seleccionado debido a que la tecnología está presente en prácticamente todos los aspectos de la vida cotidiana y profesional, lo que implica que cada persona almacena y comparte constantemente información personal a través de sus dispositivos: fotografías, conversaciones, contactos, cuentas bancarias y datos de redes sociales, entre otros.
+ A pesar de esta exposición constante, gran parte de los usuarios desconoce las amenazas digitales más comunes o las buenas prácticas necesarias para protegerse de ellas. Como futuros ingenieros en sistemas, se consideró que la ciberseguridad es un tema con un impacto directo y práctico para cualquier público, independientemente de su nivel técnico, ya que las recomendaciones brindadas son aplicables tanto en el ámbito académico como en el profesional y personal. Además, permitió al grupo transmitir contenido técnico de forma clara y accesible, cumpliendo con el objetivo del curso de aplicar comunicación asertiva en la transferencia de conocimiento técnico.
 
 ### 4.2 Desglose de Subtemas
-1. **Introducción a las Amenazas Digitales y Ingeniería Social:** *(Resumen del contenido técnico impartido)*
-2. **Gestión de Identidad, Contraseñas y MFA:** *(Resumen del contenido técnico impartido)*
-3. **Seguridad en Redes y Navegación Web:** *(Resumen del contenido técnico impartido)*
-4. **Protección de Dispositivos y Malware:** *(Resumen del contenido técnico impartido)*
-5. **Privacidad de Datos y Huella Digital:** *(Resumen del contenido técnico impartido)*
-6. **Respuesta ante Incidentes y Copias de Seguridad:** *(Resumen del contenido técnico impartido)*
+1. **Introducción a las Amenazas Digitales y Ingeniería Social:** Concepto de tecnología, sus beneficios y riesgos, y las principales amenazas digitales (phishing, malware, Man-in-the-Middle, robo de cuentas, ingeniería social, suplantación de identidad y ciberacoso), cerrando con la regla "Piensa – Verifica – Actúa".
+2. **Gestión de Identidad, Contraseñas y MFA:** Concepto de Gestión de Identidad y Acceso (IAM) y sus cuatro pilares, autenticación multifactor (MFA), factores de autenticación, y recomendaciones para crear contraseñas seguras.
+3. **Seguridad en Redes y Navegación Web:** Privacidad de datos en redes sociales, riesgos de las redes wifi públicas, estafas y perfiles falsos, y cómo identificar páginas web maliciosas.
+4. **Protección de Dispositivos y Malware:** Tipos de malware (virus, gusanos, troyanos, ransomware, spyware y adware), formas comunes de infección, señales de alerta y buenas prácticas de protección (antivirus, contraseñas fuertes, respaldos).
+5. **Privacidad de Datos y Huella Digital:** Huella digital activa y pasiva, valor comercial de los datos personales, riesgos asociados (suplantación, ingeniería social, pérdida de control) y reglas prácticas para proteger la privacidad.
+6. **Respuesta ante Incidentes y Copias de Seguridad:** Regla 3-2-1 de respaldo, tipos de nube y de backup (completo, diferencial e incremental), y proceso de respuesta ante incidentes: identificación, contención y erradicación/recuperación.
 
 ---
 
@@ -83,8 +90,17 @@
 * **Debilidades:** 
 * **Amenazas:** 
 
-*(Repetir la estructura para cada integrante del grupo)*
+#### Integrante 4: [David Antonio Meza Silva]
+* **Fortalezas:** Comunicación dinámica y natural durante la exposición, apoyada en el uso de ejemplos concretos para facilitar la comprensión del tema. Manejo adecuado del lenguaje corporal, evitando mantenerme estático y desplazándome por el espacio de exposición cada cierto tiempo, además de utilizar gestos que reforzaron el mensaje transmitido a la audiencia.
+* **Oportunidades:** La experiencia permitió identificar áreas de mejora concretas para futuras presentaciones, como reforzar la preparación de contenido de respaldo ante imprevistos técnicos y practicar transiciones más fluidas entre ideas, lo cual fortalecerá mi desempeño en exposiciones y capacitaciones posteriores, tanto académicas como profesionales.
+* **Debilidades:** Cierto grado de improvisación en algunos momentos de la exposición, lo que ocasionalmente generó cortes abruptos en el discurso al no tener claro cómo continuar con la idea. También se presentó un nerviosismo normal propio de hablar frente a un público, aunque este no fue muy evidente para la audiencia.
+* **Amenazas:**Un factor externo fuera de mi control afectó el desarrollo de mi parte de la exposición: la cañonera utilizada para proyectar el material de apoyo falló durante algunos minutos, dejándome momentáneamente sin la presentación visual como respaldo para guiar mi discurso.
 
+#### Integrante 5: [Nombre del Integrante]
+* **Fortalezas:** 
+* **Oportunidades:** 
+* **Debilidades:** 
+* **Amenazas:**
 ---
 
 ## 6. Evaluación del Aprendizaje del Público
@@ -106,7 +122,7 @@
 | XXXXXXXXX | [Nombre Completo del Integrante 1] | 100% |
 | XXXXXXXXX | [Nombre Completo del Integrante 2] | 100% |
 | XXXXXXXXX | [Nombre Completo del Integrante 3] | 100% |
-| XXXXXXXXX | [Nombre Completo del Integrante 4] | 100% |
+| 202500708 | David Antonio Meza Silva | 100% |
 
 ---
 
