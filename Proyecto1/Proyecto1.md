@@ -8,7 +8,7 @@
 * **Nombre del Grupo / Nombre del Repositorio:** CA_2S26_G#  
 * **Integrantes (Nombre Completo y Carné):**  
   * Nombre Apellido - Carné  
-  * Kerner Baltazar Tún Xón - 20505239
+  * Kerner Baltazar Tún Xón - 202505239
   * Nombre Apellido - Carné  
   * David Meza - 202500708  
 * **Fecha de Entrega:** 20/09/2026  
