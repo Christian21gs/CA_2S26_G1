@@ -8,7 +8,7 @@
 * **Nombre del Grupo / Nombre del Repositorio:** CA_2S26_G#  
 * **Integrantes (Nombre Completo y Carné):**  
   * Nombre Apellido - Carné  
-  * Nombre Apellido - Carné  
+  * Kerner Baltazar Tún Xón - 20505239
   * Nombre Apellido - Carné  
   * David Meza - 202500708  
 * **Fecha de Entrega:** 20/09/2026  
@@ -28,12 +28,14 @@ El propósito final del proyecto fue demostrar que un equipo de estudiantes de i
 
 ## 3. Objetivos
 ### 3.1 Objetivo General
-*(Definir el objetivo general que se buscaba alcanzar con la capacitación presencial).*
+La capacitación busca prevenir y concientizar a los participantes(alumnos) sobre las amenazas digitales, Phishing, malware, ingeniería social, suplantación de identidades, por otra parte, busca brindarles herramientas de ciberseguridad, consejos sobre como gestionar contraseñas, que les permita proteger du información.
 
 ### 3.2 Objetivos Específicos
-* *(Objetivo específico 1 - enfocado en el contenido técnico)*
-* *(Objetivo específico 2 - enfocado en la interacción y validación del público)*
-* *(Objetivo específico 3 - enfocado en el desarrollo de habilidades blandas del equipo)*
+* Explicar de forma clara los principales tipos de amenazas digitales Phishing, malware, troyanos, spyware, adware y las buenas prácticas de protección incluyendo las contraseñas,  los factores de autentificación y las copias de la regla 3-2-1
+  
+* Verificar en nivel de compresión y retención de los conceptos expuestos mediante las actividades de interacción, como preguntas en cada explicación de los temas, la actividad realizada en la plataforma Kahoot, en donde se evaluó lo aprendido.
+  
+* Fortalecer la comunicación oral, mejorar el manejo de la audiencia del grupo durante la capacitación, asegurar que todos los miembros del grupo tengan oportunidad de expresarse.
 
 ---
 
@@ -84,11 +86,11 @@ El propósito final del proyecto fue demostrar que un equipo de estudiantes de i
 * **Debilidades:** 
 * **Amenazas:** 
 
-#### Integrante 3: [Nombre del Integrante]
-* **Fortalezas:** 
-* **Oportunidades:** 
-* **Debilidades:** 
-* **Amenazas:** 
+#### Integrante 3: [Kerner Baltazar Tún Xón]
+* **Fortalezas:** Capacidad de mantener la exposición en el tiempo indicado, a pesar de experimentar cierta timidez y baja fluidez verbal. Lo cual refleja capacidad de autocontrol y perseverancia frente a situaciones de nerviosismo. Manejo adecuado del lenguaje corporal, evitando mantenerme pasivo.
+* **Oportunidades:** interés del público por el tema de la ciberseguridad ya que afecta a cualquier persona. Recibir retroalimentación del público y el grupo para mejorar futuras presentaciones, como mejorar el contenido del tema, tener mas fluides, ser mas seguro.
+* **Debilidades:** Algunos temas se explicaron muy rápido, lo que genera una posible dificultad de comprensión del tema, al no tener claro de como continuar. También ciertos momentos de nerviosismo o falta de fluidez durante la exposición que claramente fue visto por el publico.
+* **Amenazas:** Posible pérdida de atención del publico ya que el tema era muy técnico, también puede a ver riesgos que olviden la información de la charla por saturación de información o simplemente no les importaba. 
 
 #### Integrante 4: [David Antonio Meza Silva]
 * **Fortalezas:** Comunicación dinámica y natural durante la exposición, apoyada en el uso de ejemplos concretos para facilitar la comprensión del tema. Manejo adecuado del lenguaje corporal, evitando mantenerme estático y desplazándome por el espacio de exposición cada cierto tiempo, además de utilizar gestos que reforzaron el mensaje transmitido a la audiencia.
@@ -109,9 +111,9 @@ El propósito final del proyecto fue demostrar que un equipo de estudiantes de i
 ---
 
 ## 7. Conclusiones
-* *(Conclusión 1 sobre el aprendizaje técnico y recepción de la audiencia)*
-* *(Conclusión 2 sobre el desempeño en comunicación verbal/no verbal)*
-* *(Conclusión 3 sobre la dinámica de trabajo en equipo e interacción presencial)*
+* *La audiencia mostro buena compresión de los conceptos dados sobre el tema de la ciberseguridad, y sus diferentes subtemas.  Los resultados se reflejaron durante la actividad de Kahoot , especialmente en el reconocimiento de amenazas como el phishing y el malware.
+* *El equipo logro transmitir lo que se tenia preparado de manera clara y ordenada, apoyándose de herramientas visuales, presentaciones, diagramas y ejemplos que facilitaron la retención de la información 
+* *La coordinación entre los integrantes del grupo permitió la transacción de los temas. La capacitación se realizó con éxito, la interacción con los alumnos hecho a base de preguntas, ejemplos, genero un ambiente participativo. *
 
 ---
 
