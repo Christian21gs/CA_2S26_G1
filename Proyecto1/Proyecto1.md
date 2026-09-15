@@ -160,7 +160,8 @@ La capacitación busca prevenir y concientizar a los participantes(alumnos) sobr
 
 <img width="800" height="400" alt="WhatsApp Image 2026-09-14 at 5 11 10 PM" src="https://github.com/user-attachments/assets/1bb8eaf2-52bf-446d-9c80-f093515fb791" />
 
-<img width="800" height="400" alt="WhatsApp Image 2026-09-14 at 5 11 08 PM" src="https://github.com/user-attachments/assets/695943f7-b2e6-4282-bc0d-da734f97b24c" />
+<img width="800" height="400" alt="WhatsApp Image 2026-09-14 at 5 11 12 PM" src="https://github.com/user-attachments/assets/8818e68a-7b73-41ec-bdbc-104f6eb2d91a" />
+
 
 <img width="800" height="400" alt="WhatsApp Image 2026-09-14 at 5 11 11 PM" src="https://github.com/user-attachments/assets/95fda2aa-fc18-4a57-b2d6-16ab75883c67" />
 
