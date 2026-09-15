@@ -132,6 +132,9 @@ La capacitación busca prevenir y concientizar a los participantes(alumnos) sobr
 
 ### 9.1 Material de Presentación y Apoyo
 * Enlace a las diapositivas utilizadas: https://www.canva.com/design/DAHUA8Xj2mg/iPXq-IDcl2S_P1bLPKRqkA/edit
+* https://play.kahoot.it/v2/lobby?quizId=18e52309-223b-46aa-bcd4-ba335e3a329b
+
+
 * Capturas o imágenes claras del material visual presentado.
 
 ### 9.2 Enlaces a las Evidencias en Video
@@ -154,9 +157,14 @@ La capacitación busca prevenir y concientizar a los participantes(alumnos) sobr
 
 
 ### 9.4 Resultados de las Actividades Interactivas y Validación
-* Capturas de pantalla o reportes de herramientas digitales utilizadas (Kahoot, Mentimeter, Google Forms).
 
----
+<img width="800" height="400" alt="WhatsApp Image 2026-09-14 at 5 11 10 PM" src="https://github.com/user-attachments/assets/1bb8eaf2-52bf-446d-9c80-f093515fb791" />
+
+<img width="800" height="400" alt="WhatsApp Image 2026-09-14 at 5 11 08 PM" src="https://github.com/user-attachments/assets/695943f7-b2e6-4282-bc0d-da734f97b24c" />
+
+<img width="800" height="400" alt="WhatsApp Image 2026-09-14 at 5 11 11 PM" src="https://github.com/user-attachments/assets/95fda2aa-fc18-4a57-b2d6-16ab75883c67" />
+
+
 
 ## 10. Documento de Planificación del Proyecto (Anexo de Integración)
 *(Incluir o vincular aquí la planificación generada para cumplir con el alcance del proyecto).*
