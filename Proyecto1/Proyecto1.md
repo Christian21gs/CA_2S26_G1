@@ -134,12 +134,9 @@ La capacitación busca prevenir y concientizar a los participantes(alumnos) sobr
 * Enlace a las diapositivas utilizadas: https://www.canva.com/design/DAHUA8Xj2mg/iPXq-IDcl2S_P1bLPKRqkA/edit
 * https://play.kahoot.it/v2/lobby?quizId=18e52309-223b-46aa-bcd4-ba335e3a329b
 
-
-* Capturas o imágenes claras del material visual presentado.
-
 ### 9.2 Enlaces a las Evidencias en Video
-* **Enlace al Video de Planificación (YouTube / Drive):** `[URL_DEL_VIDEO]`
-* **Enlace al Video de la Capacitación Presencial (YouTube Público):** `[URL_DEL_VIDEO]`
+* **Enlace al Video de Planificación:** `[URL_DEL_VIDEO]`
+* **Enlace al Video de la Capacitación Presencial:** `[URL_DEL_VIDEO]`
 
 ### 9.3 Evidencias del Público y Gestión
 
@@ -151,7 +148,7 @@ La capacitación busca prevenir y concientizar a los participantes(alumnos) sobr
 
 <img width="400" height="800" alt="WhatsApp Image 2026-09-14 at 5 10 57 PM" src="https://github.com/user-attachments/assets/d733e838-9e19-4b0e-9f53-1369bfb34bd3" />
 
-<img width="900" height="1600" alt="WhatsApp Image 2026-09-14 at 5 11 07 PM" src="https://github.com/user-attachments/assets/01ab659b-8485-436d-bf84-2889860ae9f2" />
+<img width="400" height="800" alt="WhatsApp Image 2026-09-14 at 5 11 07 PM" src="https://github.com/user-attachments/assets/01ab659b-8485-436d-bf84-2889860ae9f2" />
 
 
 <img width="800" height="400" alt="WhatsApp Image 2026-09-14 at 5 11 13 PM (1)" src="https://github.com/user-attachments/assets/21a8a4c6-38c5-4606-aff0-115e5b7c070d" />
