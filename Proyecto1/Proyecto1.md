@@ -143,11 +143,9 @@ La capacitación busca prevenir y concientizar a los participantes(alumnos) sobr
 
 ### 9.3 Evidencias del Público y Gestión
 
-<img width="800" height="400" alt="WhatsApp Image 2026-09-14 at 5 11 11 PM" src="https://github.com/user-attachments/assets/0cc4d2e1-6ef2-4116-ac0f-24774af69047" />
+<img width="800" height="400" alt="WhatsApp Image 2026-09-14 at 5 11 05 PM" src="https://github.com/user-attachments/assets/0fa2530a-89b2-4e5f-a34d-777ac0e68c39" />
 
-
-<img width="800" height="400" alt="WhatsApp Image 2026-09-14 at 5 11 10 PM" src="https://github.com/user-attachments/assets/0751309d-8d1e-4b29-8f99-d0b643ee3fb4" />
-
+<img width="800" height="400" alt="WhatsApp Image 2026-09-14 at 5 11 07 PM (1)" src="https://github.com/user-attachments/assets/61bbe022-02d2-4c25-9c78-66fa3270f6e5" />
 
 <img width="800" height="400" alt="WhatsApp Image 2026-09-14 at 5 11 08 PM (1)" src="https://github.com/user-attachments/assets/2c46ea62-9b93-46f3-a85d-fdeac1ee7a43" />
 
