@@ -9,7 +9,7 @@
 * **Integrantes (Nombre Completo y Carné):**  
   * Nombre Apellido - Carné  
   * Kerner Baltazar Tún Xón - 202505239
-  * Nombre Apellido - Carné  
+  * Cristian David Yumán Gómez - 202502231  
   * David Meza - 202500708  
 * **Fecha de Entrega:** 20/09/2026  
 
@@ -98,11 +98,11 @@ La capacitación busca prevenir y concientizar a los participantes(alumnos) sobr
 * **Debilidades:** Cierto grado de improvisación en algunos momentos de la exposición, lo que ocasionalmente generó cortes abruptos en el discurso al no tener claro cómo continuar con la idea. También se presentó un nerviosismo normal propio de hablar frente a un público, aunque este no fue muy evidente para la audiencia.
 * **Amenazas:**Un factor externo fuera de mi control afectó el desarrollo de mi parte de la exposición: la cañonera utilizada para proyectar el material de apoyo falló durante algunos minutos, dejándome momentáneamente sin la presentación visual como respaldo para guiar mi discurso.
 
-#### Integrante 5: [Nombre del Integrante]
-* **Fortalezas:** 
-* **Oportunidades:** 
-* **Debilidades:** 
-* **Amenazas:**
+#### Integrante 5: [Cristian David Yumán Gómez]
+* **Fortalezas:** tener una capacidad para exponer en público diferentes temas y desglosar de una manera fluida, e improvisar en diferentes situaciones en caso de que los temas de exposición se hallan acabado, además de tener un compromiso y pasión por las exposiciones, sobre todo cuando son temas que me apasionen o de mi interés.
+* **Oportunidades:** mi pasión por exponer temas me puede ayudar a expresar mejor mis ideas en áreas como trabajos grupales o en áreas laborales y puedo ayudar en la explicación de un tema que domino para otros que estén aprendiendo y entablar otras relaciones.
+* **Debilidades:** en temas en los cuales no son de mi agrado, no los tengo presente como conocimiento básico y sobre todo lo los aprendo como se deberían de aprender, se me dificulta la explicación del tema
+* **Amenazas:** debido a mi debilidad, esto me que al momento de que este explicando no expresen bien mis ideas y sobre todo que el mensaje no llegue de forma correctamente explicada, y debido a esto puede que en plena explicación me que genere ansiedad y nerviosismo. 
 ---
 
 ## 6. Evaluación del Aprendizaje del Público
@@ -123,16 +123,15 @@ La capacitación busca prevenir y concientizar a los participantes(alumnos) sobr
 | :---: | :--- | :---: |
 | XXXXXXXXX | [Nombre Completo del Integrante 1] | 100% |
 | XXXXXXXXX | [Nombre Completo del Integrante 2] | 100% |
-| XXXXXXXXX | [Nombre Completo del Integrante 3] | 100% |
+| XXXXXXXXX | Cristian David Yumán Gómez | 100% |
 | 202500708 | David Antonio Meza Silva | 100% |
 
 ---
 
 ## 9. Anexos
-*(Requisito indispensable: Debe contener TODO el material utilizado en el proyecto).*
 
 ### 9.1 Material de Presentación y Apoyo
-* Enlace a las diapositivas utilizadas (PowerPoint / Canva / PDF).
+* Enlace a las diapositivas utilizadas: https://www.canva.com/design/DAHUA8Xj2mg/iPXq-IDcl2S_P1bLPKRqkA/edit
 * Capturas o imágenes claras del material visual presentado.
 
 ### 9.2 Enlaces a las Evidencias en Video
@@ -140,9 +139,19 @@ La capacitación busca prevenir y concientizar a los participantes(alumnos) sobr
 * **Enlace al Video de la Capacitación Presencial (YouTube Público):** `[URL_DEL_VIDEO]`
 
 ### 9.3 Evidencias del Público y Gestión
-* Comprobante o evidencia de comunicación con la institución / logística para reunir al público (mínimo 20 personas).
-* Fotografías de la audiencia presente en la capacitación.
-* Registro de asistencia o encuestas de participación contestadas.
+
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-14 at 5 11 11 PM" src="https://github.com/user-attachments/assets/0cc4d2e1-6ef2-4116-ac0f-24774af69047" />
+
+
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-14 at 5 11 10 PM" src="https://github.com/user-attachments/assets/0751309d-8d1e-4b29-8f99-d0b643ee3fb4" />
+
+
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-14 at 5 11 08 PM (1)" src="https://github.com/user-attachments/assets/2c46ea62-9b93-46f3-a85d-fdeac1ee7a43" />
+
+
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-14 at 5 11 13 PM (1)" src="https://github.com/user-attachments/assets/21a8a4c6-38c5-4606-aff0-115e5b7c070d" />
+
+
 
 ### 9.4 Resultados de las Actividades Interactivas y Validación
 * Capturas de pantalla o reportes de herramientas digitales utilizadas (Kahoot, Mentimeter, Google Forms).
