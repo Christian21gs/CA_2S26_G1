@@ -131,8 +131,12 @@ La capacitación busca prevenir y concientizar a los participantes(alumnos) sobr
 ## 9. Anexos
 
 ### 9.1 Material de Presentación y Apoyo
-* Enlace a las diapositivas utilizadas: https://www.canva.com/design/DAHUA8Xj2mg/iPXq-IDcl2S_P1bLPKRqkA/edit
+Enlace a las diapositivas utilizadas
+* https://www.canva.com/design/DAHUA8Xj2mg/iPXq-IDcl2S_P1bLPKRqkA/edit
 * https://play.kahoot.it/v2/lobby?quizId=18e52309-223b-46aa-bcd4-ba335e3a329b
+* [Planificación y organización.pptx](https://github.com/user-attachments/files/32264900/Planificacion.y.organizacion.pptx)
+
+* 
 
 ### 9.2 Enlaces a las Evidencias en Video
 * **Enlace al Video de Planificación:** `[URL_DEL_VIDEO]`
