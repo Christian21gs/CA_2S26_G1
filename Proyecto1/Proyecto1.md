@@ -137,9 +137,8 @@ Enlace a las diapositivas utilizadas
 * [Planificación y organización.pptx](https://github.com/user-attachments/files/32264900/Planificacion.y.organizacion.pptx) 
 
 ### 9.2 Enlaces a las Evidencias en Video
-* **Enlace al Video de Planificación:** `[URL_DEL_VIDEO]`
-* **Enlace al Video de la Capacitación Presencial:** `[URL_DEL_VIDEO]`
-
+* **Enlace al Video de Planificación:** https://youtu.be/wrsmQD11gBc?si=fXo6-VtrWJwkBH2Z
+* **Enlace al Video de la Capacitación Presencial:** https://youtu.be/S74L2KWfO2A?si=8wRTR5h8KEkI8qfv
 ### 9.3 Evidencias del Público y Gestión
 
 <img width="800" height="400" alt="WhatsApp Image 2026-09-14 at 5 11 05 PM" src="https://github.com/user-attachments/assets/0fa2530a-89b2-4e5f-a34d-777ac0e68c39" />
