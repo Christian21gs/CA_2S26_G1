@@ -10,7 +10,8 @@
   * Nombre Apellido - Carné  
   * Kerner Baltazar Tún Xón - 202505239
   * Nombre Apellido - Carné  
-  * David Meza - 202500708  
+  * David Meza - 202500708
+  * Christian Josué Granados Sabán - 202502343
 * **Fecha de Entrega:** 20/09/2026  
 
 ---
